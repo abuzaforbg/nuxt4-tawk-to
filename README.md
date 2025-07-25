@@ -102,6 +102,7 @@ Under the hood, the module:
 
 ## 🧩 Compatibility
 
+- ✅ Nuxt 4+
 - ✅ Nuxt 3+
 - ❌ Nuxt 2 is not supported
 

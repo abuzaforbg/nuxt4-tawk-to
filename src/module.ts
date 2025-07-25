@@ -7,7 +7,7 @@ export default defineNuxtModule<TawkToConfig>({
   meta: {
     name: 'nuxt-tawk-to',
     configKey: 'tawkTo',
-    compatibility: { nuxt: '^3.0.0' },
+    compatibility: { nuxt: '^4.0.0' },
   },
   defaults: {
     propertyId: '',
